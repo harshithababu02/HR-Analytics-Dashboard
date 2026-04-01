@@ -90,7 +90,6 @@ A series of donut charts, one per age group, showing male vs. female attrition r
 
 1. Download the `.twbx` file from this repository
 2. Open with **Tableau Desktop** (version 2022.1 or later recommended)
-3. Or view the published version on **Tableau Public**: *(add your link here)*
 
 ---
 
@@ -109,4 +108,4 @@ Built by **Harshitha Babu**
 Computer Engineering Graduate, SUNY Binghamton  
 Data Science Intern | Aspiring Data Analyst / BI Developer  
 
-[LinkedIn](https://linkedin.com/in/your-link) • [GitHub](https://github.com/your-username) • [Tableau Public](https://public.tableau.com/your-profile)
+[LinkedIn](https://www.linkedin.com/in/harshithababu/) • [GitHub](https://github.com/harshithababu02)
